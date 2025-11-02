@@ -16,7 +16,7 @@
 
 Estou sempre em busca de novos conhecimentos para aplicar em meus projetos.
 - [cite_start]🎓 Finalizando meu **MBA Executivo em Gestão de Projetos na FGV**[cite: 21, 41].
-- [cite_start]🔬 Me preparando para o **Mestrado em Engenharia de Dados e Conhecimento na COPPE/UFRJ**[cite: 21, 39].
+- [cite_start]🔬 Me preparando para o **Mestrado em Engenharia de Sistemas e Computação na COPPE/UFRJ**[cite: 21, 39].
 
 ---
 
