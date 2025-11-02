@@ -7,7 +7,7 @@
 
 [cite_start]Sou um **Especialista em Desenvolvimento e Arquitetura de Software** com mais de 20 anos de experiência transformando desafios tecnológicos em soluções de negócio inovadoras[cite: 14, 18]. [cite_start]Minha missão é criar sistemas que fazem a diferença na vida das pessoas e no sucesso das organizações[cite: 22].
 
-- [cite_start]🏅 Liderei a frente técnica do sistema de credenciamento (SABC) para os **Jogos Olímpicos de Tóquio e Paris**, garantindo a emissão segura e eficiente de mais de 50.000 credenciais[cite: 19].
+- [cite_start]🏅 Liderei a frente técnica do sistema de credenciamento (SABC) para os **Jogos Olímpicos de Tóquio e Paris**, garantindo a emissão segura e eficiente de mais de 5.000 credenciais[cite: 19].
 - [cite_start]🚀 Como fundador da **Hiper Software**, desenvolvi sistemas ERP customizados que aumentaram a eficiência operacional de clientes em até 25%, com integrações para plataformas como Amazon e Mercado Livre[cite: 20].
 
 ---
